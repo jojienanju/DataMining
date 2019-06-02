@@ -1,0 +1,43 @@
+*------------------------------------------------------------*
+User:                Jojie
+Date:                May 02, 2019
+Time:                22:56:22
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+            Measurement    Frequency
+Role           Level         Count
+ 
+INPUT        INTERVAL          4
+REJECTED     NOMINAL           2
+ 
+ 
+ 
+Interval Variable Summary Statistics
+(maximum 500 observations printed)
+ 
+Data Role=TRAIN
+ 
+                                 Standard          Non
+Variable    Role         Mean    Deviation     Missing     Missing     Minimum      Median     Maximum    Skewness    Kurtosis
+ 
+ High       INPUT    4.106441    0.133245           59           0         3.8        4.12        4.37    -0.42395    -0.30232
+ Low        INPUT    4.011186    0.131242           59           0         3.7        4.03        4.24     -0.6068     -0.2825
+ Open       INPUT    4.054068    0.131334           59           0        3.74        4.09         4.3    -0.42118    -0.29971
+ Price      INPUT    4.065085    0.138892           59           0        3.73        4.08        4.31    -0.49703    -0.38997
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*

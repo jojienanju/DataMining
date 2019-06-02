@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  DataSource="maxistelco" Scope="LOCAL" Role="RAW" Library="KLSELIB" Table="MAXIS_TELCO"
+ NCols="7" NObs="59" NBytes="66560" Segment="" DataSourceRole="RAW" OutputType="VIEW"
+ ForceRun="N" ComputeStatistics="N" DataSelection="DATASOURCE" NewTable="" MetaAdvisor="BASIC"
+ ApplyIntervalLevelLowerLimit="Y" IntervalLowerLimit="20" ApplyMaxPercentMissing="Y"
+ MaxPercentMissing="50" ApplyMaxClassLevels="Y" MaxClassLevels="20" IdentifyEmptyColumns="Y"
+ VariableValidation="STRICT" NewVariableRole="REJECT" DropMapVariables="Y" DsId="maxistelco"
+ DsSampleName="" DsSampleSizeType="" DsSampleSize="" DsCreatedBy="Jojie" DsCreateDate="1871840345.3"
+ DsModifiedBy="Jojie" DsModifyDate="1871840345.3" DsScope="LOCAL" Sample="D" SampleSizeType="PERCENT"
+ SampleSizePercent="20" SampleSizeObs="10000" DBPassThrough="Y" RunAction="Train"
+ Component="DataSource" RawCreateTime="1872363661.9" CreateTime="01MAY2019:21:01:02"
+ Description="" Data="KLSELIB.MAXIS_TELCO" CMeta="WORK.M2IP6P98" RunId="98d5a01d-802c-4f38-a709-74390e669e30"
+>
+<VARIABLEPROPERTIES/>
+<FILEPROPERTIES/>
+</_ROOT_>

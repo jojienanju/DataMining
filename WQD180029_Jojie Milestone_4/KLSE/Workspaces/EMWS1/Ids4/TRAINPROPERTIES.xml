@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  DataSource="digitelco" Scope="LOCAL" Role="RAW" Library="KLSELIB" Table="DIGI_TELCO"
+ NCols="7" NObs="59" NBytes="66560" Segment="" DataSourceRole="RAW" OutputType="VIEW"
+ ForceRun="N" ComputeStatistics="N" DataSelection="DATASOURCE" NewTable="" MetaAdvisor="BASIC"
+ ApplyIntervalLevelLowerLimit="Y" IntervalLowerLimit="20" ApplyMaxPercentMissing="Y"
+ MaxPercentMissing="50" ApplyMaxClassLevels="Y" MaxClassLevels="20" IdentifyEmptyColumns="Y"
+ VariableValidation="STRICT" NewVariableRole="REJECT" DropMapVariables="Y" DsId="digitelco"
+ DsSampleName="" DsSampleSizeType="" DsSampleSize="" DsCreatedBy="Jojie" DsCreateDate="1871840126.1"
+ DsModifiedBy="Jojie" DsModifyDate="1871840126.1" DsScope="LOCAL" Sample="D" SampleSizeType="PERCENT"
+ SampleSizePercent="20" SampleSizeObs="10000" DBPassThrough="Y" RunAction="Train"
+ Component="DataSource" RawCreateTime="1872363638.4" CreateTime="01MAY2019:21:00:38"
+ Description="" Data="KLSELIB.DIGI_TELCO" CMeta="WORK.M1DHXP0X" RunId="bfa2c4e7-8234-4da4-8276-785218b6be83"
+ RawLastTimeRun="1872364903.4" RawRunTime="8.9749999046" LastTimeRun="01MAY2019:21:21:43"
+ RunTime="0 Hr. 0 Min. 8.97 Sec.">
+<VARIABLEPROPERTIES/>
+<FILEPROPERTIES/>
+</_ROOT_>

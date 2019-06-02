@@ -1,0 +1,26 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+Variable Summary
+
+            Measurement    Frequency
+Role           Level         Count
+
+INPUT        INTERVAL          4    
+REJECTED     NOMINAL           2    
+ 
+                                                                                                                                                                                                                                                                
+ 
+Interval Variable Summary Statistics
+(maximum 500 observations printed)
+
+Data Role=TRAIN
+
+                                 Standard          Non
+Variable    Role         Mean    Deviation     Missing     Missing     Minimum      Median     Maximum    Skewness    Kurtosis
+
+ High       INPUT    4.609661    0.083252           59           0        4.47        4.62        4.75    -0.23219    -1.16999
+ Low        INPUT    4.534746    0.081544           59           0        4.36        4.54        4.69    -0.11405    -0.63152
+ Open       INPUT    4.574746    0.082407           59           0        4.42        4.56        4.73    0.171827    -0.99987
+ Price      INPUT    4.568644    0.078002           59           0        4.42        4.56        4.72    -0.01648    -0.67165
